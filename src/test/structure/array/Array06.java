@@ -37,5 +37,6 @@ public class Array06 {
             arr[i] = scan.nextInt();
         }
 
+        solution1(arr, len);
     }
 }
