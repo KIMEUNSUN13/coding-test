@@ -1,4 +1,4 @@
-package test.algorithm.sildingwindow;
+package test.algorithm.slidingwindow;
 
 import java.util.Scanner;
 
